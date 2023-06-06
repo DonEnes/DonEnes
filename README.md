@@ -1,7 +1,7 @@
 <h3 align="center">Fullstack Developer</h3> 
+(img align="right" alt="Coding" width="400" src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif")
 
 <h3 align="left">Connect with me:</h3>
-(img align="right" alt="Coding" width="400" src="https://i0.wp.com/media2.giphy.com/media/QHE5gWI0QjqF2/giphy.gif")
 
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/jipscripts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jipscripts" height="30" width="40" /></a>
