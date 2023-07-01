@@ -24,7 +24,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me:</p>
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Website: <a href="http://www.eno-dev.de/" rel="nofollow">eno-dev.de</a></li>
-<li><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> Email: <a href=eno@jipscripts.ds">eno@jipscripts.de</a></li>
+<li><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> Email: <a href=eno@clouddev.de">eno@clouddev.de</a></li>
 </ul>
 <br>
   
