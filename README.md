@@ -15,7 +15,7 @@
   
   <p align="left">
 <p dir="auto"><strong>My Discord</strong></p>
-<a href="https://discord.gg/masora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jipscripts" height="30" width="40" /></a>
+<a href="https://discord.gg/merrkur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jipscripts" height="30" width="40" /></a>
 </p>
   </blockquote>
   
