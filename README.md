@@ -1,5 +1,5 @@
 <h1 align="left">Eno - coding with ♥️</h1> 
-<img align="center" alt="Coding" width="800" src="https://media.discordapp.net/attachments/943618214506680321/1227623690783424583/ficken.png?ex=66383de8&is=6636ec68&hm=fc9329e264a07c13693d38d9cc7079b0f394e8f807f20b38ac644c0641d670d3&format=webp&quality=lossless&width=638&height=150&">
+<img align="center" alt="Coding" width="800" src="https://i.imgur.com/25eHiKI.png">
 
 <blockquote>
 <p dir="auto"><strong>Main Languages</strong></p>
