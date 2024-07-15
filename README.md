@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&amp;logo=mongodb" alt="mongodb">
 </p>
 </blockquote>
+<blockquote>
 <p dir="auto"><strong>Programs that i work with</strong></p>
 <p align="left"> 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="Visual Studio Code">
