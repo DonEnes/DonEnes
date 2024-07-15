@@ -41,24 +41,12 @@
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
 </p>
 </blockquote>
-  
-<p dir="auto"><strong>My Projects</strong></p>
-<p align="left">
-  <a href="https://discord.gg/masora-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/masora-dev" height="30" width="40" /> Discord Server
-  </a>
+ 
   <br>
-  <a href="https://ocel-group.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="https://ocel-group.com" height="30" width="40" /> Webseite
-  </a>
-</p>
-</blockquote>
-  
-  
-  <br>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me:</p>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> My Projects:</p>
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Website: <a href="http://www.eno-dev.de/" rel="nofollow">eno-dev.de</a></li>
+  <li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Website: <a href="http://palestineprofile.com/" rel="nofollow">palestineprofile.com - Support Palestine</a></li>
+<li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Website: <a href="http://ocel-group.com/" rel="nofollow">ocel-group.com</a></li>
 <li><g-emoji class="g-emoji" alias="email" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png">📧</g-emoji> Email: <a href=eno@clouddev.de">eno@clouddev.de</a></li>
 </ul>
 <br>
