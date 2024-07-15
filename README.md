@@ -4,68 +4,32 @@
 <blockquote>
 <p dir="auto"><strong>Main Languages</strong></p>
 <p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&amp;logo=c%23" alt="C#">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&amp;logo=html5" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&amp;logo=css3&logoColor=blue" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&amp;logo=javascript" alt="javascript">
+  <img src="https://img.shields.io/badge/react-black?style=for-the-badge&amp;logo=react" alt="react">
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&amp;logo=node.js" alt="Node.js">
+  <img src="https://img.shields.io/badge/next.js-black?style=for-the-badge&amp;logo=next.js" alt="next.js">
 </p>
 </blockquote>
 <blockquote>
 <p dir="auto"><strong>Secondary Languages</strong></p>
 <p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a> 
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" alt="ejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="scss" width="40" height="40"/>
-  </a> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://discord.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="discord.js" width="40" height="40"/>
-  </a> 
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&amp;logo=c%2B%2B" alt="C++">
+  <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
+  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&amp;logo=typescript" alt="typescript">
+  <img src="https://img.shields.io/badge/java-black?style=for-the-badge&amp;logo=java" alt="java">
+  <img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&amp;logo=scss&logoColor=pink" alt="scss">
+  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&amp;logo=bootstrap" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/discord.js-black?style=for-the-badge&amp;logo=discord" alt="discord.js">
+  <img src="https://img.shields.io/badge/express.js-black?style=for-the-badge&amp;logo=express" alt="express.js">
+  <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&amp;logo=mysql" alt="mysql">
+  <img src="https://img.shields.io/badge/vue.js-black?style=for-the-badge&amp;logo=vue.js" alt="vue">
+  <img src="https://img.shields.io/badge/ejs-black?style=for-the-badge&amp;logo=ejs&logoColor=yellow" alt="ejs">
+  <img src="https://img.shields.io/badge/python-black?style=for-the-badge&amp;logo=python" alt="python">
+  <img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&amp;logo=tailwindcss" alt="tailwindcss">
+  <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&amp;logo=mongodb" alt="mongodb">
 </p>
 </blockquote>
   
