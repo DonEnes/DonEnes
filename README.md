@@ -32,6 +32,15 @@
   <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&amp;logo=mongodb" alt="mongodb">
 </p>
 </blockquote>
+<blockquote>
+<p dir="auto"><strong>Programs that i work with</strong></p>
+<p align="left"> 
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=blue" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/visual%20studio-black?style=for-the-badge&logo=visual-studio&logoColor=purple" alt="Visual Studio">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij-idea" alt="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
+</p>
+</blockquote>
   
   <p align="left">
 <p dir="auto"><strong>My Discord</strong></p>
