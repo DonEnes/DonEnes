@@ -5,6 +5,8 @@
 <p dir="auto"><strong>Main Languages</strong></p>
 <p align="left"> 
   <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&amp;logo=c%23" alt="C#">
+    <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&amp;logo=typescript" alt="typescript">
+    <img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&amp;logo=tailwindcss" alt="tailwindcss">
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&amp;logo=html5" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&amp;logo=css3&logoColor=blue" alt="CSS3">
   <img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&amp;logo=javascript" alt="javascript">
@@ -18,7 +20,6 @@
 <p align="left"> 
   <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&amp;logo=c%2B%2B" alt="C++">
   <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua">
-  <img src="https://img.shields.io/badge/typescript-black?style=for-the-badge&amp;logo=typescript" alt="typescript">
   <img src="https://img.shields.io/badge/java-black?style=for-the-badge&amp;logo=java" alt="java">
   <img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&amp;logo=scss&logoColor=pink" alt="scss">
   <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&amp;logo=bootstrap" alt="Bootstrap">
@@ -28,7 +29,6 @@
   <img src="https://img.shields.io/badge/vue.js-black?style=for-the-badge&amp;logo=vue.js" alt="vue">
   <img src="https://img.shields.io/badge/ejs-black?style=for-the-badge&amp;logo=ejs&logoColor=yellow" alt="ejs">
   <img src="https://img.shields.io/badge/python-black?style=for-the-badge&amp;logo=python" alt="python">
-  <img src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&amp;logo=tailwindcss" alt="tailwindcss">
   <img src="https://img.shields.io/badge/mongodb-black?style=for-the-badge&amp;logo=mongodb" alt="mongodb">
 </p>
 </blockquote>
