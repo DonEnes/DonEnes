@@ -45,7 +45,7 @@
   <br>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> My Projects:</p>
 <ul dir="auto">
-  <li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Palestine Profile Maker: <a href="http://palestineprofile.com/" rel="nofollow">palestineprofile.pro</a></li>
+  <li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Palestine Profile Maker: <a href="http://palestineprofile.pro/" rel="nofollow">palestineprofile.pro</a></li>
 </ul>
 <br>
   
