@@ -41,13 +41,7 @@
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" alt="Git">
 </p>
 </blockquote>
- 
-  <br>
-<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> My Projects:</p>
-<ul dir="auto">
-  <li><g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji> Palestine Profile Maker: <a href="http://palestineprofile.pro/" rel="nofollow">palestineprofile.pro</a></li>
-</ul>
-<br>
+
   
   
   
